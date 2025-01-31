@@ -130,7 +130,7 @@ For more information about hiring Python developers, visit:
 
 ## Author
 
--   **Your Name** Laban Kibet
+-   **Name** Laban Kibet
     
 -   **Email**:  [Labanrotich6544@gmail.com](mailto:Labanrotich6544@gmail.com)
     
